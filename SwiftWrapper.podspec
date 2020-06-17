@@ -1,5 +1,4 @@
 Pod::Spec.new do |s|
-
   s.name         = "SwiftWrapper"
   s.version      = "0.0.1"
   s.summary      = "SwiftWrapper"
